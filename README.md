@@ -20,7 +20,7 @@ Para facilitar a descoberta de insights, o dashboard foi estruturado em camadas 
 
 * **Mapeamento Global:** Um mapa interativo permite navegar pelas principais regiões produtoras do planeta.
 * **Quebra por Continente e País:** Descubra como fatores continentais e geográficos afetam diretamente os padrões de qualidade de café.
-* **O Destaque do Brasil:** Posiciona-se entre os maiores produtores do mundo e compete com notas altas de qualidade com os cafés de outros continentes e países[cite: 1].
+* **O Destaque do Brasil:** Posiciona-se entre os maiores produtores do mundo e compete com notas altas de qualidade com os cafés de outros continentes e países.
 
 ### 📉 Gráficos Avançados: Análise Estatística & Correlação
 
