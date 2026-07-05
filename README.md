@@ -33,7 +33,7 @@ Para facilitar a descoberta de insights, o dashboard foi estruturado em camadas 
 
 * **🌍 O Paradoxo da Umidade nas Américas:** Foi identificado que, devido à necessidade crítica de secagem dos grãos para suportar os longos processos de exportação marítima, as Américas frequentemente operam fora da faixa de umidade teoricamente "ideal".
 * **🏆 Domínio em Quantidade e Qualidade:** Apesar desse desafio logístico da umidade, as Américas se consolidam como as grandes campeãs globais, liderando de forma isolada tanto em volume de produção quanto em pontuações de alta qualidade em comparação com os outros continentes.
-* **☕ Padrões de Qualidade (Sabor vs. Aroma):** A análise estatística comprovou uma altíssima **correlação linear** entre Sabor e Aroma, mostrando que cafés com notas de aroma superiores a 8,0 quase sempre garantem uma classificação final de excelência, com destaque para países como a Colômbia e a Etiópia liderando essa consistência de safra mesmo ficando longe em quantidade de produção.
+* **☕ Padrões de Qualidade (Sabor vs. Aroma):** A análise estatística comprovou uma altíssima **(correlação linear)** entre Sabor e Aroma, mostrando que cafés com notas de aroma superiores a 8,0 quase sempre garantem uma classificação final de excelência, com destaque para países como a Colômbia e a Etiópia liderando essa consistência de safra mesmo ficando longe em quantidade de produção.
 
 ---
 
