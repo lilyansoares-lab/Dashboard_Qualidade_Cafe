@@ -24,7 +24,7 @@ Para facilitar a descoberta de insights, o dashboard foi estruturado em camadas 
 
 ### 📉 Gráficos Avançados: Análise Estatística & Correlação
 
-* **Gráficos de Correlação:** Explore visualmente como a nota final do café é fortemente influenciada pela **correlação direta** entre Sabor e Aroma. 
+* **Gráficos de Correlação:** Explore visualmente como a nota final do café é fortemente influenciada pela **"correlação direta"** entre Sabor e Aroma. 
 * **Distribuição Estatística:** Gráficos que mostram a dispersão das notas, permitindo entender onde estão os verdadeiros *outliers* (os cafés raros e ultra-especiais).
 
 ---
